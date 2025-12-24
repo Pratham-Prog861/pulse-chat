@@ -1,0 +1,7 @@
+{
+  "name": "Pulse Chat",
+  "description": "An anonymous, location-based temporary chat application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
